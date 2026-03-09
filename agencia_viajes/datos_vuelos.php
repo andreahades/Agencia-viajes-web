@@ -31,5 +31,17 @@ $VUELOS = [
         'destino' => 'Buenos Aires',
         'fecha' => '2026-03-20',
         'precio' => 160000
-    ]
+    ],
+    6 => [
+        'origen' => 'Santiago',
+        'destino' => 'Temuco',
+        'fecha' => '2026-03-21',
+        'precio' => 75000
+    ],
+    7 => [
+        'origen' => 'Temuco',
+        'destino' => 'Santiago',
+        'fecha' => '2026-03-25',
+        'precio' => 75000
+    ],
 ];
