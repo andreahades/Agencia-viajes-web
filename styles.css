@@ -1,0 +1,17 @@
+body { font-family: Arial, sans-serif; background:#f4f6f9; margin:0; color:#1a1a1a; }
+.container { max-width: 980px; margin: 24px auto; padding: 16px; }
+.card { background:#fff; border:1px solid #e5e7eb; border-radius: 12px; padding: 16px; margin-bottom: 16px; }
+h1, h2 { margin: 0 0 12px 0; }
+label { display:block; font-weight:600; margin-top:10px; }
+input, select { width:100%; padding:10px; border:1px solid #cbd5e1; border-radius:10px; margin-top:6px; box-sizing:border-box; }
+button, a.btnlink { display:inline-block; margin-top: 12px; padding: 10px 14px; border:0; border-radius: 10px; cursor:pointer; text-decoration:none; }
+.btn { background:#003366; color:white; }
+.btn2 { background:#0f766e; color:white; }
+.small { font-size: 0.95rem; color:#475569; }
+table { width:100%; border-collapse: collapse; margin-top: 12px; }
+th, td { border-bottom:1px solid #e5e7eb; text-align:left; padding:10px; }
+.msg { padding:10px; border-radius:10px; margin-top:12px; }
+.ok { background:#ecfdf5; border:1px solid #a7f3d0; }
+.err { background:#fef2f2; border:1px solid #fecaca; }
+nav a { margin-right: 10px; }
+code.kbd { background:#0b1220; color:#e2e8f0; padding:2px 6px; border-radius:6px; }
